@@ -82319,3 +82319,12 @@ input[type=number] {
   justify-content: center;
 }
 
+.e-multi-select-wrapper {
+  overflow-X: auto !important;
+  overflow-Y: auto !important;
+  max-height: 50px !important;
+}
+.e-multi-select-wrapper::-webkit-scrollbar {
+  display: none;
+}
+
