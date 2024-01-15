@@ -115771,3 +115771,7 @@ input[type="number"] {
   border-style: solid;
   border-color: grey transparent transparent transparent;
 }
+
+.popup {
+z-index: 9 !important;
+}
