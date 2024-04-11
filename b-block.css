@@ -115783,3 +115783,7 @@ z-index: 9 !important;
 .e-grid .e-leftfreeze:not(.e-summarycell, .e-indentcell, .e-updatedtd, .e-selectionbackground, .e-columnselection, .e-groupcaption, .e-cellselectionbackground), .e-grid .e-rightfreeze:not(.e-summarycell, .e-updatedtd, .e-selectionbackground, .e-columnselection, .e-groupcaption, .e-cellselectionbackground), .e-grid .e-fixedfreeze:not(.e-summarycell, .e-selectionbackground, .e-updatedtd, .e-columnselection, .e-groupcaption, .e-cellselectionbackground) {
   background-color: #fff;
 }
+.bb-checkbox{
+  height: 20px;
+  width: 20px;
+}
